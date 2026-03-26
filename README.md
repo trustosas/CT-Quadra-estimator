@@ -4,7 +4,9 @@
 1. Create a project on an account with the Claude website. (https://claude.ai)
 2. Copy this repository's URL
 3. Under Files, choose GitHub, and paste the URL
-4. Start a chat with "Initialise your memory from CLAUDE.md". This sets basic Meme-BTI and Socionics or Internet consensus guardrails. After initialisation, you can delete the chat safely.
+4. Copy and paste the agent instructions below in Instructions
+5. Start a chat with "Initialise your memory from CLAUDE.md". This sets basic Meme-BTI and Socionics or Internet consensus guardrails. After initialisation, you can delete the chat safely.
+
 
 # Agent Instructions
 ```
