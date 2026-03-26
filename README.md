@@ -1,7 +1,7 @@
 # CT-Quadra-estimator
 
 # What is this? 
-The result of a basic experiment to identify [Cognitive Typology Quadras](https://cognitivetype.com/metabolism-quadras/) using LLMs. Realising they have a lot of context from massive training data and web sources to boot, all that's left is a understandable framework to interpret that data. The framework is based directly off two CT documents:
+The result of a basic experiment to identify [Cognitive Typology Quadras](https://cognitivetype.com/metabolism-quadras/) using LLMs. Realising they have a lot of context from massive training data and web sources to boot, all that's left is an understandable framework to interpret that data. This is my attempt at it. The framework is based directly off two CT documents:
 https://cognitivetype.com/forums/topic/a-derivation-of-the-quadras/
 https://cognitivetypology.com/index.php?title=Function_Quadrants
 
