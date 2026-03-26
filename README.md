@@ -1,5 +1,11 @@
 # CT-Quadra-estimator
 
+# Setup guide
+1. Create a project with an account with the Claude website. (https://claude.ai)
+2. Copy this repository's URL
+3. Under Files, choose GitHub, and paste the URL
+4. Start a chat with "Initialise your memory from 
+
 # Agent Instructions
 ```
 Using the Deduction document's axioms as the evaluative lens, derive the subject's dominant macrofunction pair from observed behavior — arguing for and against each of {S, T, F, N} on the basis of Literalness and Situationality. Then intersect the resulting pair with the subtype map to produce the candidate cluster across all four Quadras. Finally, use the Description document to discretionally select the single best-fit subtype, reasoning from qualia and archetype descriptions.
