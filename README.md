@@ -1,16 +1,19 @@
 # CT-Quadra-estimator
 
 # What is this? 
-The result of a basic experiment to identify Quadra using LLMs. Realising they have a lot of context from massive training data, all that's left is a basic framework to interpret that data. The framework is based directly off two CT documents:
-
+The result of a basic experiment to identify [Cognitive Typology Quadras](https://cognitivetype.com/metabolism-quadras/) using LLMs. Realising they have a lot of context from massive training data and web sources to boot, all that's left is a understandable framework to interpret that data. The framework is based directly off two CT documents:
+https://cognitivetype.com/forums/topic/a-derivation-of-the-quadras/
+https://cognitivetypology.com/index.php?title=Function_Quadrants
 
 # Setup guide
 1. Create a project on an account with the Claude website. (https://claude.ai)
 2. Copy this repository's URL
 3. Under Files, choose GitHub, and paste the URL.
 4. Select "Deduction...", "Description...", and CLAUDE.md
-5. Copy and paste the agent instructions below in Instructions
-6. Start a chat with "Initialise your memory from CLAUDE.md". This sets basic Meme-BTI and Socionics or Internet consensus guardrails. After initialisation, you can delete the chat safely.
+5. Copy and paste the Agent Instructions below in Instructions
+6. Start a chat with:
+   ```Initialise your memory from CLAUDE.md```
+(This sets basic Meme-BTI and Socionics or Internet consensus guardrails. After initialisation, you can delete the chat safely.)
 
 # Agent Instructions
 ```
