@@ -7,13 +7,14 @@ https://cognitivetypology.com/index.php?title=Function_Quadrants
 
 # Setup guide
 1. Create a project on an account with the Claude website. (https://claude.ai)
-2. Copy this repository's URL
-3. Under Files, choose GitHub, and paste the URL.
-4. Select "Deduction...", "Description...", and CLAUDE.md
-5. Copy and paste the Agent Instructions below in Instructions
-6. Start a chat with:
+2. Enable Memory in Settings > Privacy
+3. Copy this repository's URL
+4. Under Files, choose GitHub, and paste the URL.
+5. Select "Deduction...", "Description...", and CLAUDE.md
+6. Copy and paste the Agent Instructions below in Instructions
+7. Start a chat with:
 ```
-Initialise your memory from CLAUDE.md
+Read the CLAUDE.md file and update your memory from it
 ```
 (This sets basic Meme-BTI and Socionics or Internet consensus guardrails. After initialisation, you can delete the chat safely.)
 
