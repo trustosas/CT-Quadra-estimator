@@ -1,12 +1,16 @@
 # CT-Quadra-estimator
 
+# What is this? 
+The result of a basic experiment to identify Quadra using LLMs. Realising they have a lot of context from massive training data, all that's left is a basic framework to interpret that data. The framework is based directly off two CT documents:
+
+
 # Setup guide
 1. Create a project on an account with the Claude website. (https://claude.ai)
 2. Copy this repository's URL
-3. Under Files, choose GitHub, and paste the URL
-4. Copy and paste the agent instructions below in Instructions
-5. Start a chat with "Initialise your memory from CLAUDE.md". This sets basic Meme-BTI and Socionics or Internet consensus guardrails. After initialisation, you can delete the chat safely.
-
+3. Under Files, choose GitHub, and paste the URL.
+4. Select "Deduction...", "Description...", and CLAUDE.md
+5. Copy and paste the agent instructions below in Instructions
+6. Start a chat with "Initialise your memory from CLAUDE.md". This sets basic Meme-BTI and Socionics or Internet consensus guardrails. After initialisation, you can delete the chat safely.
 
 # Agent Instructions
 ```
