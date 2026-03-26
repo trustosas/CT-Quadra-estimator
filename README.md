@@ -12,9 +12,9 @@ https://cognitivetypology.com/index.php?title=Function_Quadrants
 4. Select "Deduction...", "Description...", and CLAUDE.md
 5. Copy and paste the Agent Instructions below in Instructions
 6. Start a chat with:
-
-```Initialise your memory from CLAUDE.md```
-
+```
+Initialise your memory from CLAUDE.md
+```
 (This sets basic Meme-BTI and Socionics or Internet consensus guardrails. After initialisation, you can delete the chat safely.)
 
 # Agent Instructions
