@@ -17,6 +17,7 @@ https://cognitivetypology.com/index.php?title=Function_Quadrants
 Read the CLAUDE.md file and update your memory from it
 ```
 (This sets basic Meme-BTI and Socionics or Internet consensus guardrails. After initialisation, you can delete the chat safely.)
+
 NOTE: Sonnet with Extended Thinking produces the best results on the free tier.
 
 # Agent Instructions
